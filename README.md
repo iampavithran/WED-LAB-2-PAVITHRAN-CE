@@ -1,1 +1,149 @@
-# WED-LAB-2-PAVITHRAN-CE
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+
+    <meta charset="utf-8">
+    <title>Pavithran Resume</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <hr>
+
+    <table width="850" border="0" align="center">
+      <tr>
+        <td><table width="850" border="0" class="bor">
+
+          <tr>
+            <td height="60" colspan="2"><div0 align="center"><strong>MY RESUME</strong>
+      </div0></td>
+          </tr>
+
+          <tr>
+            <td width="48%"><div1 class = "top">Email ID: pavithran2711@gmail.com  </div1></td>
+            <td width="50"><div align="right"><del>Contact: 011-60735964</del></div></td>
+          </tr>
+
+          <tr>
+            <td colspan="2" bgcolor="#CCCCCC"><strong>PROFILE</strong></td>
+          </tr>
+
+          <tr>
+            <td colspan="2"><img src="My picture.jpg" alt="My Photo"
+              style="border-radius:50% width="250" height="200" img align="center">
+            </td>
+          </tr>
+
+          <tr>
+            <td colspan="2" style="text-indent:30px;"><li>Full name: Pavithran s/o Kumaran</li><br>
+            <li>Age: 20</li><br>
+            <li>Gender: Male</li><br>
+            <li>Date of Birth: 27th of November 2003</li><br>
+            <li>Nationality: Malaysian</li><br>
+            <li>Languages (Spoken & Written): Tamil, English and Malay</li><br>
+            <li>My Home Town: Kedah, Kulim</li><br>
+            <li>My Hobbies: Video editing💻, Football⚽, Drawing✍ and etc</li><br>
+            </td>
+          </tr>
+
+          <tr>
+            <td colspan="2" bgcolor="#CCCCCC"><strong>CAREER OBJECTIVE</strong></td>
+          </tr>
+
+
+          <tr>
+            <td align="left" colspan="2" style="text-indent:30px;">Aim to be
+            set in challenging organization that gives me scope to upgrade my
+            information and aptitudes in accordance with the most recent patterns.
+            Additionally, to supply base level support for dealing with word handling,
+            program establishment, e-mail, and working framework related issues inside strict due dates.
+            Finally, be a portion of group that powerfully works towards growth of organization.</td>
+          </tr>
+
+          <tr>
+            <td colspan="2" bgcolor="#CCCCCC"><strong>EDUCATIONAL PROFILE</strong></td>
+          </tr>
+
+          <table border="1">
+            <tbody>
+              <tr>
+              <td> <b style"text-align;center">Year</b> </td>
+              <td> <b>School/Education</b> </td>
+              </tr>
+
+            <tr>
+              <td> 2021 - 2023</td>
+              <td> Penang Skill Development Centre (PSDC), Diploma in Computer Engineering </td>
+            </tr>
+            <tr>
+              <td> 2016 - 2020</td>
+              <td> Smk Chio Min, SPM(1A, 3B+, 5C)</td>
+            </tr>
+            <tr>
+              <td> 2010 - 2015</td>
+              <td> Sekolah Jenis Kebangsaan Tamil Kulim (5A, 2B)</td>
+            </tr>
+            </tbody>
+          </table>
+          <br>
+
+          <tr>
+            <td colspan="2" bgcolor="#CCCCCC"><strong>TECHNICAL SKILLS</strong></td>
+          </tr>
+
+          <tr>
+            <td colspan="2"><table width="831" border="0" align="center">
+              <tr>
+                <ul>
+                <td width="264"><li>Operating System</li></td>
+                <td width="37"><strong>:</strong></td>
+                <td width="532">Windows 7 and 10 </td>
+                </ul>
+              </tr>
+              <tr>
+              <ul>
+                <td><li>Programming Languages</li></td>
+                <td><strong>:</strong></td>
+                <td>C and C++ </td>
+                </ul>
+              </tr>
+              <tr>
+              <ul>
+                <td><li>Software</li></td>
+                <td><strong>:</strong></td>
+                <td> Visual Studio, Microsoft (word, excel), Multisim, Arduino IDE</td>
+               </ul>
+              </tr>
+              <tr>
+              <ul>
+                <td><li>Database</li></td>
+                <td><strong>:</strong></td>
+                <td>Oracle, Mysql</td>
+                </ul>
+              </tr>
+
+            </table></td>
+          </tr>
+
+          <tr>
+            <td colspan="2" bgcolor="#CCCCCC"><strong>WORK EXPERIENCE</strong></td>
+          </tr>
+
+          <tr>
+            <td align="left" colspan="2" style="text-indent:30px;"><li>Oversaw design,
+            development, and upgrades to system-on-chip devices and Internet-of-Things
+            (IoT) electronics.</li><br>
+            <li>Developed testing methods of prototypes to be used in driverless vehicles, AI assistants, and
+              other commercial endeavors.</li><br>
+            <li>Supervised attributes of microprocessor and microcontroller design to ensure performance,
+              accuracy, and cost-effectiveness.</li><br>
+            </td>
+          </tr>
+
+        </table></td>
+      </tr>
+    </table>
+
+
+  </body>
+</html>
